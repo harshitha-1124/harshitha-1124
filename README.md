@@ -1,111 +1,111 @@
-<h1 align="center">Hi 👋, I'm Dandige Harshitha</h1>
-<h3 align="center">Aspiring Software Developer | DSA Mentor | ML Enthusiast</h3>
+<h1 align="center">🌸 Hey, I'm Dandige Harshitha 🌸</h1>
+<h3 align="center">✨ AI/ML Enthusiast | DSA Mentor | Open-Source Advocate | Hackathon Finalist ✨</h3>
 
 <p align="center">
-  <a href="mailto:harshithadandige01@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harshitha-dandige-19881627b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Harshitha-1124"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Harshitha_Dandige/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/22241A1280"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F06292&center=true&vCenter=true&width=435&lines=Code.+Create.+Conquer.;ML+Models+With+Style.;600%2B+Leetcode+Solutions+%F0%9F%93%96;Hackathons+%7C+Mentoring+%7C+Dreaming+Big" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👩‍🎓 About Me
+## 🌟 About Me
 
-- 🎓 B.Tech in Information Technology, *GRIET, Hyderabad*  
-- 📈 CGPA: *9.36 / 10*  
-- 👩‍🏫 *DSA Mentor at Smart Interviews*
-- 🤖 Passionate about *Data Structures, **Machine Learning, and **Problem Solving*
-- 💻 Solved *600+ LeetCode* problems | *6⭐ Problem Solving* on HackerRank
-
----
-
-## 💼 Experience
-
-### 💡 DSA Mentor – Smart Interviews  
-📅 Jan 2025 – Present  
-- Helped students understand and apply key DSA concepts through simplified explanations.
-- Guided learners in logic building, algorithm design, and time-space optimization.
-- Supported students in debugging and improving code efficiency.
+- 🎓 B.Tech IT @ **GRIET, Hyderabad** (2022–2026) — CGPA: 9.36  
+- 👩‍🏫 DSA Mentor @ **Smart Interviews**  
+- 🤖 Passionate about building AI/ML tools with **AutoML & predictive intelligence**  
+- 💬 I love simplifying DSA, mentoring students, and **debugging with compassion**  
+- 💃 Hackathon finalist, open-source believer, and proud **Free Software Wing** contributor  
 
 ---
 
-## 🛠 Skills
+## 🚀 My Projects
 
-- *Languages:* Java, Python, HTML, CSS  
-- *Databases:* MySQL  
-- *Libraries/Tools:* Scikit-learn, Pandas, NumPy, Matplotlib  
-- *Other:* Git, VS Code, Flask, Streamlit  
-- *Soft Skills:* Communication, Teamwork, Analytical Thinking
+### 🔮 AutoML Workflow Automation
+> Automating ML workflows like magic ✨  
+**Tech:** `Python`, `Auto-sklearn`, `Scikit-learn`, `Pandas`  
+✅ Preprocessing, model tuning, evaluation — all hands-free!
 
----
+### ❄️ Avalanche Prediction
+> Predicting danger zones with 87% accuracy  
+**Tech:** `Flask`, `Scikit-learn`, `NumPy`, `Pandas`  
+📊 Built using terrain + weather data for smart alert systems
 
-## 🧠 Academic Background
-
-- *Core Courses:*  
-  - Data Structures and Algorithms (DSA)  
-  - Object-Oriented Programming (OOP)  
-  - Operating Systems  
-  - DBMS  
-  - Computer Networks  
-  - Software Engineering
+### 🚑 QuickCare: Emergency Response System
+> Forecast hospital inflow and optimize emergency resources  
+**Tech:** `Scikit-learn`, `Matplotlib`, `Pandas`  
+🧠 Disease prediction + oxygen/ICU/ventilator resource mapping
 
 ---
 
-## 🚀 Projects
+## 💻 Tech Stack
 
-### 📌 [AutoML Workflow Automation](https://github.com/harshitha-1124/AutoML) | [Live Demo](https://automl-app-tcfarqbpvau8kdhfktw8y.streamlit.app/)
-Automates data preprocessing, model selection, and hyperparameter tuning with minimal intervention.
-
-> *Tech:* Python, Scikit-learn, Auto-sklearn, Pandas
-
----
-
-### 📌 [Avalanche Prediction](https://github.com/harshitha-1124/Avalanche__prediction__)
-Built a model to predict avalanche danger levels with 87% accuracy using meteorological data.
-
-> *Tech:* Python, NumPy, Pandas, Flask, Scikit-learn
-
----
-
-### 📌 [QuickCare: Emergency & Resource Optimization](https://github.com/harshitha-1124/Hospital-Resource-Optimization)
-Predicts hospital patient inflow and dynamically optimizes ICU beds, ventilators, and oxygen supplies.
-
-> *Tech:* Python, Pandas, Matplotlib, Scikit-learn
+```yaml
+Languages:        Java, Python, HTML, CSS
+Databases:        MySQL
+ML Stack:         Scikit-learn, Pandas, NumPy, Matplotlib
+Core Subjects:    OOP, DSA, CN, OS, DBMS, SE
+Soft Skills:      Communication, Teamwork, Adaptability, Analytical Thinking
+```
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Ranked *738 / 43,341* on Smart Interviews  
-- ⭐ *6-Star HackerRank* (Problem Solving)  
-- 💻 *600+ problems solved* on LeetCode (Rating: 1700+)  
-- 🏅 Finalist in *Vivitsu 2024, **Epitome 2025, **Hackfinity 2025*  
-- 🧠 Participated in 100+ coding contests
+- ⭐ 6-Star in HackerRank Problem Solving  
+- 📈 Solved 600+ problems on LeetCode (1700+ rating)  
+- 🥇 Ranked 738 / 43,341 on Smart Interviews platform  
+- 🏁 Finalist at **Vivitsu 2024**, **Epitome 2025**, **Hackfinity 2025**  
+- 🧑‍💼 Core Committee, Organizer of **Vivitsu’23 Hackathon**  
+- 💡 Active contributor @ **Free Software Wing (FSW)**  
 
 ---
 
-## 📜 Certifications
+## 📚 Certifications
 
-- 🏅 HackerRank SQL & Problem Solving – Mar 2025  
-- 🧠 Google AI-ML Virtual Internship – Dec 2024  
-- 📘 NPTEL Data Science for Engineers – Sep 2024  
-- 💻 Programming in C (Cisco) – Mar 2023  
-
----
-
-## 🤝 Community
-
-- 🛠 Member of *Free Software Wing (FSW)* @ GRIET  
-- 🧑‍💻 Organized *Vivitsu’23 Hackathon* as Core Committee Member
+- 🧠 Google AI/ML Virtual Internship – Dec 2024  
+- 📊 Data Science for Engineers – NPTEL – Sep 2024  
+- 🏅 Problem Solving & SQL – HackerRank – Mar 2025  
+- 💾 Programming in C – CISCO – Mar 2023  
 
 ---
+
+## 💡 Hackathon Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitha-1124&show_icons=true&theme=radical" alt="Harshitha GitHub Stats"/>
+  <img src="https://img.shields.io/badge/Vivitsu%202024-Finalist-f06292?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Epitome%202025-Finalist-f48fb1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hackfinity%202025-Finalist-fce4ec?style=for-the-badge">
 </p>
 
 ---
 
-Thank you for visiting my profile! Let's connect and build something amazing! 🚀
+## 👩‍💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-600%2B_Problems-orange?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-6_Stars-brightgreen?style=for-the-badge&logo=hackerrank" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsernameHere&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=YourGitHubUsernameHere&theme=radical" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsernameHere&layout=compact&theme=radical" width="50%"/>
+</p>
+
+---
+
+## 🌐 Let’s Connect!
+
+<p align="center">
+  <a href="mailto:harshithadandige01@gmail.com"><img src="https://img.shields.io/badge/Gmail-harshithadandige01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/YourGitHubUsernameHere"><img src="https://img.shields.io/badge/GitHub-DandigeHarshitha-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YourLinkedInUsernameHere"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+<p align="center">💖 “She who codes with confidence, builds with brilliance.” 💖</p>
