@@ -1,5 +1,5 @@
-<h1 align="center">🌸 Hey, I'm Dandige Harshitha 🌸</h1>
-<h3 align="center">✨ AI/ML Enthusiast | DSA Mentor | Open-Source Advocate | Hackathon Finalist ✨</h3>
+<h1 align="center"> Hey, I'm Dandige Harshitha </h1>
+<h3 align="center">✨ DSA Mentor | AI/ML Enthusiast | Hackathon Finalist ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F06292&center=true&vCenter=true&width=435&lines=Code.+Create.+Conquer.;ML+Models+With+Style.;600%2B+Leetcode+Solutions+%F0%9F%93%96;Hackathons+%7C+Mentoring+%7C+Dreaming+Big" alt="Typing SVG" />
@@ -14,6 +14,16 @@
 - 🤖 Passionate about building AI/ML tools with **AutoML & predictive intelligence**  
 - 💬 I love simplifying DSA, mentoring students, and **debugging with compassion**  
 - 💃 Hackathon finalist, open-source believer, and proud **Free Software Wing** contributor  
+
+---
+
+## 💼 Experience
+
+### 👩‍🏫 DSA Mentor @ Smart Interviews  
+📍 *Jan 2024 – Present*  
+- Mentored 50+ students on Data Structures & Algorithms for technical interviews  
+- Conducted live sessions, 1:1 mentorship, and problem-solving workshops  
+- Helped mentees crack interviews at top tech firms with hands-on guidance
 
 ---
 
@@ -87,19 +97,6 @@ Soft Skills:      Communication, Teamwork, Adaptability, Analytical Thinking
 
 ---
 
-## 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsernameHere&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://streak-stats.demolab.com?user=YourGitHubUsernameHere&theme=radical" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsernameHere&layout=compact&theme=radical" width="50%"/>
-</p>
-
----
-
 ## 🌐 Let’s Connect!
 
 <p align="center">
@@ -108,4 +105,3 @@ Soft Skills:      Communication, Teamwork, Adaptability, Analytical Thinking
   <a href="https://www.linkedin.com/in/YourLinkedInUsernameHere"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<p align="center">💖 “She who codes with confidence, builds with brilliance.” 💖</p>
