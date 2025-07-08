@@ -21,10 +21,9 @@
 
 ### 👩‍🏫 DSA Mentor @ Smart Interviews  
 📍 *Jan 2024 – Present*  
-- Mentored 50+ students on Data Structures & Algorithms for technical interviews  
-- Conducted live sessions, 1:1 mentorship, and problem-solving workshops  
-- Helped mentees crack interviews at top tech firms with hands-on guidance
-
+- Mentored 300+ students on Data Structures & Algorithms  
+- Conducted live sessions, 1:1 mentorship, and problem-solving workshops
+  
 ---
 
 ## 🚀 My Projects
