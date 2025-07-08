@@ -2,7 +2,7 @@
 <h3 align="center">✨ DSA Mentor | AI/ML Enthusiast | Hackathon Finalist ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F06292&center=true&vCenter=true&width=435&lines=Code.+Create.+Conquer.;ML+Models+With+Style.;600%2B+Leetcode+Solutions+%F0%9F%93%96;Hackathons+%7C+Mentoring+%7C+Dreaming+Big" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F06292&center=true&vCenter=true&width=435&lines=Code.+Create.+Conquer.;ML+Models+With+Style.;Hackathons+%7C+Mentoring+%7C+Dreaming+Big" alt="Typing SVG" />
 </p>
 
 ---
